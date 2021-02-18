@@ -1,6 +1,6 @@
 # Peloton Instructors React
 
-*Peloton instructor cards built using React*
+*Example Peloton instructor cards built using React*
 
 ## Getting Started
 
@@ -15,7 +15,7 @@ npm run start
 
 Due to CORS issues, disable web security in Chrome to run and view app
 
-**Example on Max**
+**Example on Mac**
 
 ```bash
 open /Applications/Google\ Chrome.app --args --user-data-dir="/var/tmp/Chrome dev session" --disable-web-security
